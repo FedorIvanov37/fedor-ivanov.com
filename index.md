@@ -1,17 +1,1 @@
-# Fedor Ivanov
-
-Fintech engineer.
-
-## Projects
-
-- [Signal](https://github.com/FedorIvanov37/signal)
-- [GitHub](https://github.com/FedorIvanov37)
-
-## About
-
-17 years in fintech and payment systems.
-
-Specialization:
-- card processing
-- ISO8583
-- payment gateways
+![image](https://thumbs.dreamstime.com/b/pixel-art-seamless-background-location-forest-night-landscape-game-application-pixel-art-seamless-background-100597510.jpg)
