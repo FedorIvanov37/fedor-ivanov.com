@@ -1,1 +1,1 @@
-![image](https://thumbs.dreamstime.com/b/pixel-art-seamless-background-location-forest-night-landscape-game-application-pixel-art-seamless-background-100597510.jpg)
+![image](https://raw.githubusercontent.com/FedorIvanov37/signal/refs/heads/master/common/doc/static/triforce_signed.png)
